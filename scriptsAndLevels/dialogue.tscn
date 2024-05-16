@@ -1,0 +1,41 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://dialogueBox.gd" type="Script" id=1]
+[ext_resource path="res://Characters/assets/dialogueBoxes/picardBox0.png" type="Texture" id=2]
+[ext_resource path="res://Characters/assets/dialogueBoxes/the unseen.ttf" type="DynamicFontData" id=3]
+
+[sub_resource type="DynamicFont" id=1]
+size = 60
+font_data = ExtResource( 3 )
+
+[node name="dialogueBox" type="TextureRect"]
+pause_mode = 2
+margin_left = 175.0
+margin_top = -5.0
+margin_right = 2095.0
+margin_bottom = 1075.0
+rect_min_size = Vector2( 1920, 1080 )
+texture = ExtResource( 2 )
+expand = true
+stretch_mode = 5
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="."]
+anchor_left = -0.122
+anchor_right = -0.097
+margin_left = 463.742
+margin_top = 784.864
+margin_right = 1550.74
+margin_bottom = 992.864
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = SubResource( 1 )
+text = "sdrgsdfgsdfg"
+align = 1
+valign = 1
+autowrap = true
+__meta__ = {
+"_edit_use_anchors_": false
+}

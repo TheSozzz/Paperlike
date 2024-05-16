@@ -1,0 +1,31 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://movingPlatformH.gd" type="Script" id=1]
+[ext_resource path="res://Characters/assets/bluePlatform2.png" type="Texture" id=2]
+
+[node name="movingPlatformH" type="Node2D"]
+position = Vector2( 1, -1 )
+script = ExtResource( 1 )
+tileNum = 10
+
+[node name="platform" type="KinematicBody2D" parent="."]
+position = Vector2( -4, 2 )
+__meta__ = {
+"_edit_group_": true
+}
+
+[node name="CollisionPolygonBlue" type="CollisionPolygon2D" parent="platform"]
+position = Vector2( -958, -675 )
+polygon = PoolVector2Array( 304, 492, 1624, 495, 1620, 674, 1434, 860, 490, 859, 304, 677 )
+
+[node name="Sprite" type="Sprite" parent="platform"]
+position = Vector2( 4, 2 )
+texture = ExtResource( 2 )
+
+[node name="CollisionPolygonPurple" type="CollisionPolygon2D" parent="platform"]
+polygon = PoolVector2Array( -650, -191, -279, 185, 289, 188, 478, -1, 662, -1, 480, -186 )
+
+[node name="tween" type="Tween" parent="."]
+repeat = true
+playback_process_mode = 0
+playback/repeat = true

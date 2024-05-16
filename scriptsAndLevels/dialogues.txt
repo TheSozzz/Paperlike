@@ -1,0 +1,471 @@
+{P2}Ughh! Goodness, what a mess! [press Q to switch dialogue]
+{P1}How am I even alive still?
+{W1}I mean it wasn’t without external help...
+{P8}What the...?
+{P0}Who was that?
+{W1}Your rescuer of course
+{P1}Yeah, thanks Cap, I got that already...
+{P1}Who are you?...
+{P0}...and... you can hear me!?
+{W1}I can surely hear you
+{W1}I hear a lot of things
+{W1}Well, I am no one really...
+{W1}You wouldn’t really get it...
+{W1}Just call me Wind
+{P1}Sounds pretty weird
+{P0}And why would you...?
+{P1}Never mind. Where are you anyway?
+{W1}Well, I prevail in a complex state piercing the space-time continuum and multiple other dimensions
+{W1}at the fundamental level of the quantum structure of the universe
+{P0}.......?
+{W1}I said you wouldn’t get it
+{W1}To put it simply, I am everywhere
+{P1}Everywhere? ...that's, weirdly unsettling.
+{P1}Speaking of weird things..
+{P2}Why is it all paper coloured by 3-year olds?
+{P1}I am not in Novomorsk anymore, am I?
+{W1}You are in a dimension more familiar to your... ughm... body structure
+{P0}What like... is this entire place supposed to be paper?
+{W1}Yes Pi-Card
+{P2}You know my name now?!
+{P2}Whatever! Just get me back to the normal world so I can get washed away to a different
+{P2}continent by Gulf Stream or something. Maybe get soggy and disintegrate like toilet paper.
+{P2}I don’t care! That girl made me as a waste product, a handkerchief for all I know!
+{W1}Don’t say that, Emily made you for a reason
+{P1}Yeah right, the arts-and-crafts club at the local daycare cries for her sentient creations
+{W1}Okay just calm down, would you?
+{W1}You have a larger potential than that...
+{P2}I CANNOT EVEN MOVE!
+{W1}Oh yes, about that...
+{W1}Lets get you moving and you’ll see that drifting in the Black Sea is not your best deal
+{P1}Alright, fine, what other choice is there in this goofy place after all
+{W1}Huh, haven’t done this in a long time...
+{W1}Right! So first - if you want to completely skip dialogue, press T (don't do it yet!!)
+{G1}Press ‘A’, ‘D’ or ‘Space’ keys to move left, right or jump. Press shift to duck or long-press
+{G1}‘S’ to super jump
+{P1}What was that?
+{W1}Oh, that was most probably a fox. You see them around these forests quite often.
+{P0}Why do they move like... like that...?
+{W1}Oh, you mean glide? Everything living moves here that way due to... external influence...
+{P1}External influence like you?
+{W1}No... not me...
+{P1}Alright, keep you secrets Agent 007
+{P1}Are those things dangerous?
+{W1}Well, of course not...
+{W1}Unless they notice you
+{P2}Great, throw me back in the sea.
+{W1}Hey, get your spirits up! You can defend yourself! 4 hits must be enough
+{W1}Watch this!
+{P8}Wait what are y-!?
+{G1}Approach the hostile entities and press the ‘E’ key to hit them
+{W1}See that was not that that bad.
+{P2}Yeah, right, I almost got killed
+{W1}You cannot really get killed
+{W1}I mean there is a point at which you damage your body structure so much you lose your consciousness...
+{P1}Yeah, thanks that helps
+{P2}Not only do I know humans create stuff like me and then chuck it out but they also have the
+{P2}advantage of losing their consciousness earlier than getting their body fully dismembered
+{W1}You are just being too salty about this...
+{W1}And honestly a bit disturbing
+{W1}Humans are not that bad you know
+{P0}What is that over there? The white wall of... energy
+{W1}That is a space-time distortion
+{W1}The paper reality is vast but made in layers. Usually the layers are inaccessible and do not cross
+{W1}each other but recently these pathways started appearing here and there
+{W1}They link different paper dimensions together. Although sometimes they link to a partner ...portal, I guess... 
+{W1}in the same dimension.
+{W1}Frankly I don’t know what created them...
+{P0}Aren’t you like almighty?
+{W1}No... I am not...
+{W1}At least no-
+{P2}Can you at least tell me how I got into this paper mess in the first place?
+{W1}There was an anomaly the source of which I do not yet know
+{P6}Marvellous, why again should we continue this pointless journey if you yourself do not even know
+{P1}what got us here?
+{W1}These dimensions are limited and I cannot transport you to the human world... currently...
+{W1}The only way for us to get moving is through these portals and hope one of them, leads to where
+{W1}you want to be
+{W1}You might always change your opinions on certain things as we go
+{P2}Vague, vague, vague and vaguer. What are you hiding?
+{P1}Fine, get me through, since there is no other way I might as well “enjoy the great adventure”
+{W1}That’s the spirit
+{P1}What on earth is a door doing here?
+{W1}Something the locals left to prevent predators from reaching their homes. Attacks are rare but
+{W1}still. There are keys from them lying all around for the people to use. You might have even seen
+{W1}some already.
+{P1}Hold up now...
+{P0}Locals? Ther are other paper people around here?
+{W1}Surely! You are not that unique here.
+{P6}Good! Let's ask them. Maybe they know the path out of this large collection of pine scented car
+{P6}air fresheners.
+{W1}I don't think we mu-
+{P1}Yeah, youre right, we need to use the keys first.
+{P1}Pine air fresheners, paper, keys, doors. I feel like we are in a very badly organised department
+{P2}store at this point
+{P7}There! I see something! Those are houses! A village!
+{W1}I don-
+{P3}Off we go!
+{M1}Oh, a guest, a traveller! We haven't had guests for so long here in Hiderwood
+{B1}What about the colourful guy a week ago?
+{M1}That was a merchant
+{B1}Still counts as a traveller
+{W1}Pi-Card I really think we sho-
+{P2}Wait a moment Wind
+{P1}I guess you could call me a traveller
+{P1}I am from a human world
+{B1}Not big news. Almost all of us are. Name’s Bill, I am from an arts club in LA
+{B1}That’s Molly, she’s from a preschool in Osaka
+{M1}Nice to meet you...
+{P1}Pi-Card, Novomorsk
+{P0}How did you all come here in the first place?
+{M1}We all got washed away by the sea and then poof... and we were here
+{B1}Yeah, those barbaric humans threw each and every one of us out, like waste
+{P0}But I mean you are all... moving...
+{B1}Sure we are... after what he created the paper worlds came alive
+{M1}Jeez Bill, the traveller looks almost exactly like him
+{B2}Oh snap! He actually does
+{P0}Who is ‘he’?
+{M1}.........
+{W1}*aggressive wind noises*
+{P2}Wind! Stop with that howling, would you!? I can’t hear what the people are saying!
+{W1}You are missing the point here. You were going to ask them where to go
+{B2}Wind? He talked to Wind just like you do
+{P0}Can’t you hear him?
+{W1}Only you can hear me Pi-Card. You are the only one whom I let temporarily use my powers
+{M1}No we can’t bu-
+{B3}But auntie Martha can!
+{M1}Thanks Bill...
+{P0}Auntie Martha?
+{M1}She is the head of the village
+{M1}She was thrown into the ocean by a careless kid in Kiel
+{M1}Most of us didn’t get soaked but she was not so lucky
+{M1}Wind was too late, she was already damaged beyond capabilities to move on her own
+{M1}Completely soaked and on the verge of being torn
+{A1}I can take it from here darling
+{A1}Wind, old friend, long time no hear
+{A1}I see you brought another one with you
+{P8}Aunty Martha? But... you are floating... you have-
+{A1}Borrowed Wind’s powers? Just like you my dear
+{W1}Good to see you are doing fine Martha
+{A1}Yeah, I see you have scaled back on your presentation, no space time rips or-
+{P0}Yeah on the topic of portals, do you know where there is a portal to get to the next dimension
+{A1}Are you trying to get back to human world kid?
+{P1}Anything really
+{A1}Humans... evil creatures...
+{A1}First they make you, mangle you and later submerge into endless oblivion
+{A1}I would keep as far away from them as possible if I were you
+{W1}They are-
+{A1}Okay now Wind, I know your stance on them
+{A1}I am infinitely grateful to you for saving and helping me but I dedicated my entire life 
+{A1}to building this place as an asylum for the broken and forgotten
+{A1}And I am not accepting of any defence of these foul merciless creatures here
+{A1}Neither do any of my people
+{P4}We did not mean to cause distress, I am just trying to find a way out
+{A1}I know darling, I am not mad at neither you nor Wind... but the wounds are deep and sore
+{A1}If you so want the portal is over there, but you are going to have to get over the spike valley first
+{A1}What is your name young man?
+{P4}Pi-Card
+{A1}So Pi-Card, take care and listen to what your heart says
+{A1}Goobye Wind, make sure the kid stays safe
+{W1}Goodbye Martha, all the best
+{M1}Bye, good luck Pi-Card!
+{B3}Yeah, hope you don’t die!
+{M1}Bill!
+{B3}What? I meant it
+{P1}Oh yeah, do you guys know what that fox thing is, they look exactly the same...
+{M1}Oh, you might be referring to the spirit of the forest, a folk legend we made to prevent our kids
+{M1}from going to the forests alone!
+{B2}She is a powerful guardian of the forest that preserves its nature from any intruders
+{M1}Some even say she can mirror herself and have thousands of clones roaming the forest...
+{M1}You saw the fox drawings on the walls of houses at the village outskirts, right?
+{P8}Yeah... the drawings on the houses... right...
+{P5}Thank you... bye
+{P4}Wow, humans really do cause pain
+{W1}They do for sure
+{W1}This is how they are built
+{W1}They can do no different, but trust me, human nature can be beautiful, they can love, be compassionate...
+{P4}Ugh, I don’t know man...
+{P1}Where are we this time?
+{W1}The blue dimension. An endless megapolis built by people from Novomorsk
+{W1}The only dimension that learnt how to generate energy for their own needs
+{P8}Ughm, its very ...empty. Are there people here?
+{W1}Yes, they are in a form of trance. Technically they are still alive, but in a very deep stasis, 
+{W1}sleepwalking so to say. They're still prone to agression if a stranger nears them.
+{W1}You won’t really hurt them if you attack them but you might help them get out of the trance
+{D1}Oh gracious! I am awake! I really am!
+{D2}Thank you kind stranger!
+{P5}Ughm, welcome, I guess... didn't do anything, to be honest...
+{P4}Why are you all... like that anyway?
+{D3}We are all from one school in Novomorsk
+{D3}Novomorsk School 3
+{D3}A box with arts and crafts and us in them was mistaken for recycling paper box and so we never
+{D3}returned to our owners
+{D3}The box was large. There were thousands of us. The children made us as a support present for
+{D2}the soldiers in the East of the country...
+{D4}We were created with empathy and childish compassion with the aim of support to those that
+{D2}protect them
+{D2}We miss being there with the children
+{D3}This entire city we built around us...
+{D3}It’s just a lie we tried to consume to try to feel the warmth of our old home
+{D3}And it is because of this lie that we had to pay with our minds
+{D3}The way we produce energy creates dangerous fields permeating the blue dimension that affect our brains
+{D3}And we would gladly turn the power plants off but we supply energy to all the inhabitants of all
+{D3}the other dimensions
+{D3}We cannot risk their lives
+{P4}But... you are damaging your lives in the process...
+{D2}If this ensures the well-being of others... so be it!
+{D4}This is what our home back in Novomorsk taught us and this is what we will conform to
+{D4}This is what humans taught us
+{P8}But didn’t they throw you away
+{P4}Into oblivion...
+{D3}Humans are not perfect, nobody is, but underneath all the layers of dirt and rocks, each one of
+{D2}them has something good
+{D2}If there could be a reson to keep living through anything, other than to keep that little twinkle of
+{D2}good alight...
+{D2}...what would it be?
+{D4}.......
+{P8}A- are you alright?
+{W1}He went back to trance Pi-Card...
+{W1}You can only keep them awake for so long...
+{W1}Come on, the portal is right there
+{P4}So how long do I have to keep doing?
+{W1}Well the dimensions are not that long. The pathway must be in the range of-
+{P4}That is not what I meant Wind
+{P4}How long do I have to keep going to understand what I am
+{P4}You said I have a potential...
+{P4}I said I wanted to leave...
+{P4}Disintegrate on the wave crests...
+{P4}I am not sure I want to anymore...
+{P4}But what way out is there...
+{P2}What is my purpose!?
+{P4}Why did... Emily... leave me...?
+{W1}Hey...
+{W1}Emily never left you... it was an accident...
+{W1}Do you think she really intended to hurt you?
+{P2}I dont know!
+{P2}I DON’K KNOW, ALRIGHT?!
+{P2}I don’t know how humans work and what is in their fleshy heads!
+{P2}Should I like them, hate them?!
+{P2}They cause so much harm and suffering!
+{P4}And yet they are capable of true good!
+{P2}But like whatever they do just causes more problems for everyone!
+{P2}More and more mistakes!
+{P2}Let’s just keep moving for now!
+{P2}What are those cats doing here?!
+{P1}Are we at grandma’s or something...?
+{P8}I don’t like the way they are looking at me...
+{W1}Oh no...
+{P2}“Oh no”? What do you mean “oh no”!?
+{W1}This is not a safe dimension...
+{W1}These ‘cats’ are aggressive.
+{W1}They don’t feel pain, don’t feel remorse, don’t feel anything
+{W1}They are artificially created simulations
+{W1}I don’t know why and who created them, but the mountains are not inhabitable for paper folk anymore
+{W1}We have to be very careful here
+{W1}You certainly wouldn’t like to fall into spike abyss, or get caught by one of these...
+{L1}Hello
+{P0}Hello... ughm... what are you doing here?
+{P0}Isn’t it a dangerous dimension to exist in?
+{L2}Oh don’t be silly, I’ve lived here for the greatest piece of my life
+{L1}Piece... hmm... sounds like piece of cake... goes good with tea... gonna go prepare myself some...
+{P8}Wind, what tea and cake is she talking about... we cannot eat...
+{W1}I don’t know Pi-Card, but I really think we should get going...
+{L2}Did you say anything?
+{L4}Oh you are talking with that Wind being!?
+{L4}Hello there Wind! Wouldn’t even say hello to an old friend?
+{P8}She can hear you?
+{L4}Oh yes I absolutely can!
+{L3}Come on now, stop pretending you don’t know me!
+{L2}Decided to bring another one to see him?
+{P2}Why does everyone keep mentioning “him”?! Who is that?
+{L5}Oh, Wind didn’t tell you?
+{L3}Go on then tell him now! Before you make him forget like everyone in this forsaken place!
+{P2}Wind, what is she talking about!?
+{W1}I have no idea-
+{L3}Yes you do! Or must I remind you?!
+{L3}He brought me here to face him too! But I started suspecting something quick enough to escape
+{L4}his grip and hide here. I can go on off his machine without Wind’s “help”, unlike the poor poor Auntie Martha.
+{L3}And when I started defying him, he attempted to wipe my memory but ended up tying a knot in the wrong wires in my head.
+{L4}And whooops - I am insane now!
+{L5}I thought these cats I created would prevent anyone Wind sends from suffering the fate those
+{L3}that failed suffered, being stuck in this flat recycled-wood nightmare forever, but I guess you Pi-
+{L2}Card are a perseverant lad.
+{L5}Be careful so that this perseverance doesn’t lead to situations you would never wish to be in.
+{P4}You lied to me...
+{W1}Pi-Card I-
+{P8}What are you doing, no!
+{P2}That is it! That was the final straw!
+{P2}You threw me down a volcano!
+{P2}You freaking liar!
+{P2}You lied to everyone!
+{P2}You forced them to live here like prisoners!
+{W1}I saved them and I was attempting to save both worlds from him!
+{P2}Him!? Who the hell is “him”!
+{P2}What else are you hiding Wind!?
+{P1}Oh right, I forgot, the almighty being cannot even tell the truth!
+{P2}And pardon me again, you are not almighty anymore, are you!?
+{P2}Go on, answer me! Or is the only way you withstand confrontation by wiping your opponent’s memories?!
+{W1}Alright, you want to know the full-story?
+{P2}Well, go on then, not that I have many options, do I?
+{W1}Long ago I created this paper reality as a way to entertain myself-
+{P1}You are kidding me right now-
+{W1}Wait, you are the first I am telling this to so please listen
+{W1}The paper reality was empty and... boring... but the answer how to make it more diverse came from a human girl Emily
+{W1}You are not her first creation
+{W1}Her first attempt was called Curve, or how the locals refer to him “he”, and looked almost identical to you
+{W1}Like a clone! Not even I could’ve done better
+{P1}Get to the point already
+{W1}She lost him.
+{W1}Just like that, got washed away by the drain, with nothing to shield him from water, until he flowed into the ocean
+{W1}I saved and transported him into this reality
+{W1}I practically had to assemble him bit by bit
+{W1}He was hurt, but eventually we grew on each other
+{W1}I was genuinely interesting to see him learn so fast, discovering new and new dimensions
+{W1}Eventually I found out that behind the mask of peace he hid resentment
+{W1}Resentment for every human being because of one girl that crippled him long ago
+{W1}We planned to expand this reality
+{W1}Save others like him and let most move and exist without my help
+{W1}To bring life, independent of my powers, to this beautiful but dead world
+{W1}With my help he built a complex space-time control machine that would manipulate the worlds
+{W1}To be fair, as you have seen, he did bring life to the local beings but then I saw his true colours show
+{W1}He used the machine to cut off, limit my powers and push me out of the realm, where he
+{W1}instantiated himself as a leader
+{W1}I tried to talk sense into him, but he stuck to his position of a too great of a divide between us...
+{P8}...so you started sending ones of his kind to persuade him...
+{W1}Yes, but he still wouldn’t listen and whenever each failed, he erased their memories and sent
+{W1}them to live in one of the dimensions
+{W1}Up until this day, he lives on a malevolent dream of “freeing” all of his kind into the human dimension-
+{P2}So he is doing the right thing, you chained them in here against their will!
+{W1}I never chained anybody. All of them either wanted to be here, but got their memories wiped or had no other option
+{W1}I couldn’t send the guys from the blue level back to Earth even if I wanted to
+{W1}Now, if he succeeds at adapting his machine to do what he intended...
+{P1}What will happen then?!
+{W1}He made a mistake in the calculations, he doesn’t wish to acknowledge it in his maniacal fever
+{W1}This “mistake” would wipe human world out entirely in the process and create its copy,
+{W1}but devoid of any life whatsoever
+{P1}Let him
+{W1}What!?
+{P2}Let him do it!
+{W1}Humans deserve life, haven’t you understood that they can be compassionate, kind-
+{P2}And also cold and cruel! Didn’t you see what they did to Aunty Martha?!
+{W1}Humans make mistakes! Everyone makes mistakes!
+{W1}I made a mistake for not telling you the truth
+{W1}It is most important that we know how to apologise, forgive and learn on the wrong we did
+{W1}I am sorry for what I did Pi-Card, truly sorry
+{W1}But I am getting really desperate here and I hope you’ll at least understand that I never meant any harm to anyone
+{P2}SO WHY?! Why send me if all the tries to persuade him failed!?
+{W1}Because you are him
+{W1}You were born in the same hands and if there is somebody he’ll understand in this universe... it is you Pi-Card...
+{W1}I-
+{W1}I-
+{W1}I- I am begging you... think about Emily... does she deserve death?
+{P4}...ugh I- I...
+{P2}Ugh! Alright!
+{P2}FINE!
+{P2}Fine, I’ll help you!
+{P1}Where are we then? Looks even more miserable..
+{P8}Why is this place so... different?
+{W1}Long ago this was glorious free landscape of deserts and streams but Curve’s machine warped it beyond recognition
+{W1}It is now only inhabited by dead ghastly figures...
+{W1}Errors in space-time continuum
+{P0}So we are not far from Curve...
+{P0}This must be here...
+{C2}I was just expecting visitors
+{C2}Who is it this time Wi-
+{C7}You?
+{C7}You look li-
+{P6}Like you?
+{P6}I am closer to you than you think
+{P1}I am Emily’s creation, just like you
+{C0}What kind of trick is that Wind?
+{C1}An optical illusion?
+{C5}Did you by some miracle manage to make peace with Alice?
+{C2}Or did you manage to keep the city dwellers out of trance for long-enough?
+{W1}No Curve, he is what he said he is
+{C5}Ahhh, another victim of Volynets Emily Antonivna
+{C1}Now now, start telling me how you love humans-
+{P1}I won’t...
+{C7}Wha-
+{P2}I don’t like humans either, okay!?
+{P1}But is that an excuse to kill them all?
+{C1}Do you know what Emily did to me?
+{C1}She made me first
+{C1}She was running around the schoolyard overjoyed, showing it to every one of her puffy little
+{C1}friends
+{C1}And what next?
+{C1}She goes to colour me
+{C8}And drops me onto a wet watercolour palette
+{C8}It softens my papery skin and silently I resist the pain, for her, all for her
+{C8}And then she spills the entire paintbrush cup of water on me
+{C2}And still I cannot move
+{C8}I cannot raise my back and scream in anguish as the fibre holding my body together dampen
+{C8}and begin to part
+{C1}And even if I could I wouldn’t, for her, for her to enjoy her day... with me...
+{C1}And I lie on the window sill for days as my body is burned dry by the scorching Sun feeding
+{C8}myself forcefully with the hope that she will come back one day and will take me back with her to
+{C8}excitedly chat with her friends again
+{C1}But days pass, weeks pass and she doesn’t return until one moment...
+{C1}Until a single gust of Autumn air sends me flying through the window and onto the floor where I
+{C8}will get walked over for the rest of the day until the evening rain brushes me off into the drain
+{C8}And so I, soaked and torn, have to be run through a washing machine and currents of seawater
+{C8}until I get dropped here in these fake preschool play decorations to finish the miserable life?
+{C1}No-
+{C8}I am forced to keep existing here with every tear and fold on my skin reminding me of the past
+{C1}until my very body structure becomes so obsolete and worn out that I will just crumble like a stale cracker
+{P4}But Emily never intended any of it... she put you in the sun to dry, she wanted you back...
+{C5}Noooo...
+{C1}No, she did not, instead in the weeks that passed, she makes a replacement for me, and now
+{C1}after just a few days in their world and decades in this fake reality I finally meet the one who was
+{C2}supposed to replace me...
+{P8}I-
+{C1}But I guess she wouldn’t want any of us in the end...
+{C5}She threw you out too...
+{P4}No, she lost me-
+{C2}Oh no, she did not, she threw you out!
+{C2}Chucked you out like a used straw!
+{C2}You are nothing but waste to them my dear Pi-Card, that is you name, isn’t it? I have heard Wind
+{C2}say it from far away
+{C8}You are waste, just like all the pathetic paper things living in this hole in space and time
+{C5}But with me...
+{C5}You said it yourself, we are closer than we appear
+{C5}You might be the only one who understands me
+{C5}How I think...
+{W1}Pi-Card don’t listen to him!
+{C5}How I dream...
+{W1}He’s trying to mislead you!
+{C2}How I exist
+{P4}I- I d-
+{C5}Now take a moment to think about you options
+{C1}You can follow Wind, get you mind wiped and placed into a random dimension you will never get
+{C1}out of, maybe even defeat me and return to Emily, or whatever you want there, and get rubbed by
+{C8}her soles into the muddy earth again
+{C5}Which, I mean, great option if you ask me
+{C2}Or join me on a journey to together build a new free world with endless possibilities for the ones
+{C2}like us, for the ones like you, where no one will ever humiliate and cause as much pain to us as
+{C2}those fleshy disgusting meatbags did
+{C2}The choice is yours...
+{P0}....
+{W1}Pi- Pi-Card...?
+{P1}You are right Curve
+{P1}Humans are disgusting
+{P1}They hurt, they kill, they destroy
+{P2}They cannot even tolerate each other on one planet!
+{P1}But they have an advantage over you
+{P1}An advantage Wind helped me adopt
+{P1}Mistakes
+{P1}Mistakes is what makes humans human
+{P6}Mistakes and learning off them is what keeps the humans alive no matter how much evil, hate
+{P6}and destruction they bring upon themselves
+{P1}You didn’t learn
+{P2}You let your intolerance towards a mistake of someone you loved fret inside you and warp your
+{P2}mind to a state of mindless abomination
+{P6}But frankly, and however cliche and however many times you heard it before you have to forgive and accept
+{P6}Because that is the only integral step you should take towards learning from you mistakes
+{P5}Wind... I forgive you
+{C5}You have a strong heart Pi-Card
+{C1}But I am greatly disappointed you decided to go that way
+{C1}The universe restructuring process by the machine has already started
+{C8}And indeed, that is with sorrow and remorse that I am going to have to kill you to get you out of my way
+{W1}Pi-Card, distract him, dodge his attacks - i'll try something, it might just do the trick!
+{W1}Just trust me this one time!
+{P2}... Alright, go on!

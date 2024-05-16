@@ -1,0 +1,127 @@
+[gd_scene load_steps=13 format=2]
+
+[ext_resource path="res://Characters/assets/picardAttackRight.png" type="Texture" id=1]
+[ext_resource path="res://Characters/assets/superJump.png" type="Texture" id=2]
+[ext_resource path="res://Characters/assets/picardMove.png" type="Texture" id=3]
+[ext_resource path="res://Characters/assets/picardJump.png" type="Texture" id=4]
+[ext_resource path="res://Characters/assets/picardAttackLeft.png" type="Texture" id=5]
+[ext_resource path="res://hero.gd" type="Script" id=6]
+[ext_resource path="res://Characters/assets/picardCrouch.png" type="Texture" id=7]
+[ext_resource path="res://Characters/assets/picardMoveL.png" type="Texture" id=8]
+[ext_resource path="res://Characters/assets/picardFig.png" type="Texture" id=9]
+[ext_resource path="res://Characters/assets/picardCrouchProper.png" type="Texture" id=10]
+
+[sub_resource type="RectangleShape2D" id=2]
+extents = Vector2( 22.2889, 10 )
+
+[sub_resource type="SpriteFrames" id=1]
+animations = [ {
+"frames": [ ExtResource( 9 ) ],
+"loop": false,
+"name": "idle",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 7 ), ExtResource( 7 ), ExtResource( 7 ) ],
+"loop": false,
+"name": "smallCrouch",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 10 ) ],
+"loop": true,
+"name": "crouch",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 5 ), ExtResource( 5 ), ExtResource( 5 ) ],
+"loop": false,
+"name": "attackLeft",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 1 ), ExtResource( 1 ), ExtResource( 1 ) ],
+"loop": false,
+"name": "attackRight",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 2 ) ],
+"loop": false,
+"name": "superJumping",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 4 ) ],
+"loop": false,
+"name": "jumping",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 8 ) ],
+"loop": false,
+"name": "moveR",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 3 ) ],
+"loop": false,
+"name": "moveL",
+"speed": 5.0
+} ]
+
+[node name="picard" type="KinematicBody2D" groups=["player"]]
+scale = Vector2( 0.88, 0.88 )
+script = ExtResource( 6 )
+
+[node name="standingUpCollision" type="CollisionPolygon2D" parent="." groups=["collided"]]
+position = Vector2( 39.4738, 5.26315 )
+polygon = PoolVector2Array( -425, -611.842, -538.158, 25, -505.263, 335.526, -459.337, -50.6362, -277.632, -225, -239.474, -118.421, -440.79, 757.895, -405.474, 1059.74, -458.474, 1258.74, -128.948, 1213.16, -77.6317, 322.368, -25.0001, 310.526, 76.3157, 1196.05, 453.526, 1251.74, 387.526, 1055.74, 371.052, 677.632, 117.105, -92.1052, 160.526, -225, 287.409, -105.662, 302.631, 355.263, 403.947, 3.94739, 300, -598.684, 74.3973, -602.779, 138.158, -971.053, 61.842, -1092.11, -175, -1094.74, -277.632, -971.053, -211.131, -607.961 )
+
+[node name="hitChecker" type="Area2D" parent="."]
+
+[node name="hitCheckerCollisionShape" type="CollisionPolygon2D" parent="hitChecker"]
+position = Vector2( -48.6842, -243.421 )
+scale = Vector2( 0.828948, 9.97368 )
+polygon = PoolVector2Array( -188.889, 12.7968, -236.508, 2.90238, -458.73, 18.9974, -507.936, 57.6517, -538.095, 25.7256, -417.46, -36.4116, -156.367, -36.1461, -228.571, -72.5594, -96.8253, -84.8285, 171.428, -84.8285, 257.143, -72.1636, 187.98, -35.7958, 490.476, -35.4881, 596.825, 28.3641, 471.428, 61.4776, 448.945, 15.3385, 304.762, 2.63852, 244.444, 14.7757, 550.793, 92.7441, 473.016, 122.427, 331.746, 135.092, 666.666, 150.396, 201.587, 145.251, 87.3015, 55.6728, 9.5238, 56.7283, -49.2063, 146.57, -444.444, 150.132, -165.079, 136.412, -303.174, 125.066, -425.396, 100 )
+
+[node name="attackSpeed" type="Timer" parent="hitChecker"]
+wait_time = 3.0
+one_shot = true
+
+[node name="attackRange" type="Area2D" parent="."]
+
+[node name="atttackRangeCollisionShape" type="CollisionShape2D" parent="attackRange" groups=["player"]]
+position = Vector2( -46.0227, -1.31581 )
+scale = Vector2( 80.9572, 64.9872 )
+shape = SubResource( 2 )
+
+[node name="Camera2D" type="Camera2D" parent="."]
+current = true
+zoom = Vector2( 10, 10 )
+limit_smoothed = true
+drag_margin_h_enabled = true
+drag_margin_v_enabled = true
+smoothing_enabled = true
+smoothing_speed = 10.0
+drag_margin_left = 0.1
+drag_margin_top = 0.1
+drag_margin_right = 0.1
+drag_margin_bottom = 0.05
+editor_draw_limits = true
+editor_draw_drag_margin = true
+
+[node name="checkForCieling" type="Area2D" parent="."]
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="checkForCieling"]
+polygon = PoolVector2Array( -138, -1093, -241, -984, -226, -703, -172, -614, -404, -615, -502, 10, 459, 26, 361, -606, 136, -609, 162, -723, 186, -968, 102, -1094 )
+
+[node name="crouchingCollision" type="CollisionPolygon2D" parent="."]
+polygon = PoolVector2Array( -29, 24, -251, 22, -387, 653, -355, 1068, -419, 1259, -99, 1229, -39, 337, 24, 335, 117, 1179, 490, 1255, 401, 670, 189, 15 )
+disabled = true
+
+[node name="AnimatedSprite" type="AnimatedSprite" parent="."]
+position = Vector2( -1347.73, -1187.5 )
+rotation = 0.00481704
+scale = Vector2( 2.32, 2.32 )
+frames = SubResource( 1 )
+animation = "moveR"
+centered = false
+
+[connection signal="body_entered" from="hitChecker" to="." method="_on_hitChecker_body_entered"]
+[connection signal="body_entered" from="attackRange" to="." method="_on_attackRange_body_entered"]
+[connection signal="body_exited" from="attackRange" to="." method="_on_attackRange_body_exited"]
+[connection signal="body_entered" from="checkForCieling" to="." method="_on_checkForCieling_body_entered"]
+[connection signal="body_exited" from="checkForCieling" to="." method="_on_checkForCieling_body_exited"]

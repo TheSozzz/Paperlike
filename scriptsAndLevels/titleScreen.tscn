@@ -1,0 +1,73 @@
+[gd_scene load_steps=6 format=3 uid="uid://c2wm337ew6hu4"]
+
+[ext_resource type="Texture2D" uid="uid://4r1sudv2r1n0" path="res://Characters/assets/menuBackground.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://bwe1ncb26oj6l" path="res://Characters/assets/button2.png" id="3"]
+[ext_resource type="Script" path="res://titleScreen.gd" id="4"]
+[ext_resource type="Texture2D" uid="uid://d3hcrvs8t0kro" path="res://Characters/assets/logoPicard.png" id="5"]
+[ext_resource type="Texture2D" uid="uid://boedehji0cui5" path="res://Characters/assets/button1.png" id="6"]
+
+[node name="Control" type="Control"]
+layout_mode = 3
+anchor_right = 1.666
+anchor_bottom = 1.657
+offset_right = -0.232178
+offset_bottom = 0.263916
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("4")
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="TextureRect" type="TextureRect" parent="."]
+layout_mode = 0
+offset_right = 1920.0
+offset_bottom = 1080.0
+texture = ExtResource("2")
+
+[node name="HBoxContainer" type="HBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = -0.00781657
+anchor_top = 0.106145
+anchor_right = 0.992183
+anchor_bottom = 0.106145
+offset_left = 39.0
+offset_top = -91.0
+offset_right = 532.0
+offset_bottom = 709.0
+grow_horizontal = 2
+grow_vertical = 2
+metadata/_edit_use_anchors_ = true
+
+[node name="MarginContainer" type="MarginContainer" parent="HBoxContainer"]
+layout_mode = 2
+
+[node name="TextureRect" type="TextureRect" parent="HBoxContainer"]
+layout_mode = 2
+texture = ExtResource("5")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="MarginContainer" type="MarginContainer" parent="HBoxContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="newGame" type="TextureButton" parent="HBoxContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+texture_normal = ExtResource("6")
+texture_hover = ExtResource("3")
+
+[node name="Label" type="Label" parent="HBoxContainer/VBoxContainer/newGame"]
+layout_mode = 0
+text = "START GAME "
+
+[node name="MarginContainer2" type="MarginContainer" parent="HBoxContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="MarginContainer2" type="MarginContainer" parent="HBoxContainer"]
+layout_mode = 2
+
+[connection signal="pressed" from="HBoxContainer/VBoxContainer/newGame" to="." method="_on_newGame_pressed"]

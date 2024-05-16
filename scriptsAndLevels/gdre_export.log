@@ -1,0 +1,39 @@
+GDRE Tools v0.6.2
+Manjaro Linux #1 SMP PREEMPT Wed Apr 10 19:10:26 UTC 2024, NVIDIA GeForce RTX 3060, opengl3
+Extracted 449 files, no errors detected!
+USER WARNING: Converting lossy imports, you may lose fidelity for indicated assets when re-importing upon loading the project
+   at: _export_imports (modules/gdsdecomp/utility/import_exporter.cpp:58)
+Script version 3.4.2 (rev 0x5565f55) detected
+Saved project config project.godot.
+Saved project config project.godot.
+
+
+********************************EXPORT REPORT********************************
+
+Totals:                                 
+Decompiled scripts:                     29
+Failed scripts:                         0
+Imported resources for export session:  449
+Successfully converted:                 176
+Lossy:                                  1
+Rewrote metadata:                       0
+Non-importable conversions:             0
+Not converted:                          0
+Failed conversions:                     0
+-------------
+
+
+The following files were converted from an import that was stored lossy.
+You may lose fidelity when re-importing these files upon loading the project.
+res://.import/balck.jpg-ead060b561d316899f050a1d2ff704c8.stex to res://scenes2/balck.jpg
+
+
+------------------------------------------------------------------------------------
+
+Use Godot editor version 3.4.2 to edit the project.
+Note: the project may be using a custom version of Godot. Detection for this has not been implemented yet.
+If you find that you have many non-import errors upon opening the project 
+(i.e. scripts or shaders have many errors), use the original game's binary as the export template.
+
+*******************************************************************************
+

@@ -1,0 +1,126 @@
+[gd_scene load_steps=9 format=2]
+
+[ext_resource path="res://deathScreen.gd" type="Script" id=1]
+[ext_resource path="res://Characters/assets/deadLogo.png" type="Texture" id=2]
+[ext_resource path="res://Paperlike game assets/Handodle-rg38A.ttf" type="DynamicFontData" id=3]
+[ext_resource path="res://Characters/assets/menuBackground.png" type="Texture" id=4]
+[ext_resource path="res://Characters/assets/button1.png" type="Texture" id=5]
+[ext_resource path="res://Characters/assets/button2.png" type="Texture" id=6]
+
+[sub_resource type="DynamicFont" id=1]
+size = 90
+font_data = ExtResource( 3 )
+
+[sub_resource type="DynamicFont" id=2]
+size = 34
+font_data = ExtResource( 3 )
+
+[node name="deathScreen" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="TextureRect" type="TextureRect" parent="."]
+margin_right = 40.0
+margin_bottom = 40.0
+texture = ExtResource( 4 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="HBoxContainer" type="HBoxContainer" parent="."]
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+margin_top = -400.0
+margin_bottom = 400.0
+custom_constants/separation = 50
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="MarginContainer" type="MarginContainer" parent="HBoxContainer"]
+margin_bottom = 800.0
+
+[node name="TextureRect" type="TextureRect" parent="HBoxContainer"]
+margin_left = 50.0
+margin_right = 850.0
+margin_bottom = 800.0
+texture = ExtResource( 2 )
+
+[node name="VBoxContainer" type="VBoxContainer" parent="HBoxContainer"]
+margin_left = 900.0
+margin_right = 1870.0
+margin_bottom = 800.0
+size_flags_horizontal = 3
+custom_constants/separation = 100
+
+[node name="MarginContainer" type="MarginContainer" parent="HBoxContainer/VBoxContainer"]
+margin_right = 970.0
+
+[node name="fromCheckPoint" type="TextureButton" parent="HBoxContainer/VBoxContainer"]
+margin_top = 100.0
+margin_right = 970.0
+margin_bottom = 400.0
+size_flags_vertical = 3
+texture_normal = ExtResource( 5 )
+texture_hover = ExtResource( 6 )
+expand = true
+
+[node name="Label" type="Label" parent="HBoxContainer/VBoxContainer/fromCheckPoint"]
+margin_left = 43.0
+margin_top = 36.0
+margin_right = 905.0
+margin_bottom = 273.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = SubResource( 1 )
+text = "TO LAST CHECKPOINT"
+align = 1
+autowrap = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="mainMenu" type="TextureButton" parent="HBoxContainer/VBoxContainer"]
+margin_top = 500.0
+margin_right = 970.0
+margin_bottom = 800.0
+size_flags_vertical = 3
+texture_normal = ExtResource( 5 )
+texture_hover = ExtResource( 6 )
+expand = true
+
+[node name="Label" type="Label" parent="HBoxContainer/VBoxContainer/mainMenu"]
+margin_left = 196.0
+margin_top = 98.0
+margin_right = 767.0
+margin_bottom = 215.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = SubResource( 1 )
+text = "TO MAIN MENU"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label2" type="Label" parent="HBoxContainer/VBoxContainer/mainMenu"]
+margin_left = 213.0
+margin_top = 204.0
+margin_right = 1183.0
+margin_bottom = 249.0
+custom_colors/font_color = Color( 0.101961, 0.101961, 0.101961, 1 )
+custom_fonts/font = SubResource( 2 )
+text = "Warning: all progress will be lost"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="MarginContainer2" type="MarginContainer" parent="HBoxContainer"]
+margin_left = 1920.0
+margin_right = 1920.0
+margin_bottom = 800.0
+
+[connection signal="pressed" from="HBoxContainer/VBoxContainer/fromCheckPoint" to="." method="_on_fromCheckPoint_pressed"]
+[connection signal="pressed" from="HBoxContainer/VBoxContainer/mainMenu" to="." method="_on_mainMenu_pressed"]
